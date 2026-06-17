@@ -4,7 +4,7 @@ Unofficial Python integrations for TwinQ.
 
 ## Integrations
 
-- `twinq_create_melding.py` - `create_melding` (13 live events).
+- `twinq_create_melding.py` - `create_melding`.
 
 ## Usage
 
